@@ -78,16 +78,17 @@ python app.py
 
 ```
 CallCenterAI/
-├── app.py                  # Main application (Flask/FastAPI)
-├── stt_module.py           # Speech-to-Text
-├── tts_module.py           # Text-to-Speech
-├── nlp_module.py           # OpenAI GPT Integration
+├── app.py                 # Main application logic
+├── github_helper.py       # GitHub API integration (if used)
+├── openai_helper.py       # OpenAI GPT-based NLP functionality
+├── twilio_helper.py       # Twilio integration for calls/SMS
 ├── utils/
-│   └── logger.py           # Conversation logging
-├── static/                 # For web frontend (if any)
-├── .env                    # Environment variables
-├── requirements.txt
-└── README.md
+│   └── logger.py          # For logging conversations and activity
+├── static/                # Optional: Web frontend files (HTML/CSS/JS)
+├── .env                   # Environment variables (API keys etc.)
+├── requirements.txt       # Python dependencies
+└── README.md              # Project overview and instructions
+
 ```
 
 ---
