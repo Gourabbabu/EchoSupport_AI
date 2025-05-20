@@ -7,7 +7,7 @@ A fully automated AI-powered call center solution that understands customer quer
 
 ## 🔧 Features
 
-- 🎤 **Real-time Speech Recognition** (Speech-to-Text)
+- 🎤 **Real-time Speech Recognition applied** (Speech-to-Text)
 - 🧠 **Natural Language Understanding** (via OpenAI GPT)
 - 🗣️ **Dynamic Voice Responses** (Text-to-Speech)
 - 🔄 **Two-way Voice Communication** via phone call (using Twilio)
