@@ -1,5 +1,5 @@
 
-# 📞 Call Center Replacement AI 🤖
+# 📞 Call Center Replacement AI🤖
 
 A fully automated AI-powered call center solution that understands customer queries and responds intelligently in real-time using speech-to-text, natural language processing, and speech synthesis. This project aims to revolutionize customer service by replacing traditional call center agents with a scalable, efficient, multitasker and intelligent system.
 
